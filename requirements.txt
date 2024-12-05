@@ -2,4 +2,4 @@ flask
 numpy
 matplotlib
 tensorflow-cpu
-
+gunicorn
